@@ -1,4 +1,4 @@
-#### Ödev 1 <br>
+#### Ödev 1 <br>
 https://www.w3resource.com/quizzes/python/python-quizzes-strings.php<br>
 #### Ödev 2 <br>
 https://www.w3resource.com/python-exercises/string/ <br>
