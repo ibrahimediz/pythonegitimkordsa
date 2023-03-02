@@ -1,6 +1,6 @@
 import os
 print(*os.listdir("/workspace/pythonegitimkordsa/Exercises"))
-filename = "01_03_list"
+filename = "01_04_tuple"
 metin = """
 var1 = '41,5,59,N'
 """
