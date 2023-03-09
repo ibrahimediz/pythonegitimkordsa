@@ -1,6 +1,6 @@
 import os
 print(*os.listdir("/workspace/pythonegitimkordsa/Exercises"))
-filename = "01_05_dict"
+filename = "01_06_dict"
 metin = """
 var1 = '41,5,59,N'
 """
@@ -11,5 +11,5 @@ for item in os.listdir("/workspace/pythonegitimkordsa/Exercises"):
         # dosya.write(metin)
 
     
-import json
-json.dumps()
+# import json
+# json.dumps()
