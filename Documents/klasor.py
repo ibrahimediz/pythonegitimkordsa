@@ -1,6 +1,6 @@
 import os
 print(*os.listdir("/workspace/pythonegitimkordsa/Exercises"))
-filename = "02_02_Conditional_Structures"
+filename = "02_03_Loop_Structures"
 metin = """
 var1 = '41,5,59,N'
 """

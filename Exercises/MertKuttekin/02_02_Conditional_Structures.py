@@ -11,7 +11,3 @@ elif şehir == "İzmir":
     print(isim + ", tahminime göre şu anda İzmir'desiniz.")
 else:
     print(isim + ", tahminime göre şu anda " + şehir + " şehrinde olabilirsiniz.")
-
-
-
-
