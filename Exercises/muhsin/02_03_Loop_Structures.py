@@ -10,3 +10,11 @@ for i in range(6):
     liste.sort()
     print(*liste)
 
+
+
+#############
+
+for i in range(1, 5):
+    print("  *" * i)
+for j in range(3, 0, -1):
+    print("  *" * j)
