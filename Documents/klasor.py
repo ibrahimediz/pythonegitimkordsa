@@ -1,6 +1,6 @@
 import os
 print(*os.listdir("/workspace/pythonegitimkordsa/Exercises"))
-filename = "02_03_Loop_Structures"
+filename = "03_01_Functions"
 metin = """
 var1 = '41,5,59,N'
 """
