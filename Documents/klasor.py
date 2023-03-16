@@ -1,6 +1,6 @@
 import os
 print(*os.listdir("/workspace/pythonegitimkordsa/Exercises"))
-filename = "03_01_Functions"
+filename = "03_02_Functions_Parameters"
 metin = """
 var1 = '41,5,59,N'
 """
